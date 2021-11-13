@@ -33,11 +33,11 @@ This will create a dockerized stack for a Lumen application, consisted of the fo
 
 The following values should be replaced in your `.env` file if you're willing to keep them as defaults:
   ```
-    DB_HOST=mysql
-    DB_PORT=3306
-    DB_DATABASE=appdb
-    DB_USERNAME=user
-    DB_PASSWORD=myuserpass
+    DB_HOST=
+    DB_PORT=
+    DB_DATABASE=
+    DB_USERNAME=
+    DB_PASSWORD=
     AWS_REGION=
     AWS_COGNITO_USER_POOL_ID=
     AWS_COGNITO_CLIENT_ID=
