@@ -1,4 +1,4 @@
-# Brand Mobile Lumen Wallet Service
+# Lumen Wallet Service
 
 ### **Description**
 
